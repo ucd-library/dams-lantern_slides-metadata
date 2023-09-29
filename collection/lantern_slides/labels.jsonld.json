@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175907",
+    "http://schema.org/name": "Wine and wine making"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175997",
+    "http://schema.org/name": "Wineries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205340",
+    "http://schema.org/name": "California--Livermore"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207102",
+    "http://schema.org/name": "California--San Juan Capistrano"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207374",
+    "http://schema.org/name": "California--Fresno "
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1213638",
+    "http://schema.org/name": "California--Sonoma County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214324",
+    "http://schema.org/name": "California--Fresno County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214373",
+    "http://schema.org/name": "California--Fremont"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1273793",
+    "http://schema.org/name": "California--Napa Valley"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1692638",
+    "http://schema.org/name": "Southern California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1914442",
+    "http://schema.org/name": "Italian Swiss Colony (Asti, Calif.)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1979689",
+    "http://schema.org/name": "Inglenook Vineyards"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/644552",
+    "http://schema.org/name": "Mission San Juan Capistrano"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/744888",
+    "http://schema.org/name": "Cresta Blanca Wine Company"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/800949",
+    "http://schema.org/name": "Agricultural laborers"
+  }
+]

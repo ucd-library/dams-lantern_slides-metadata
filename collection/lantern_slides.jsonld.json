@@ -1,0 +1,83 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabels": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1214373"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175997"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205340"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1273793"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1692638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/800949"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207374"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:description": "Digital surrogates of eighty-five lantern slides taken by Frona Eunice Wait depicting wine-related scenes in the Napa Valley area during the late 19th and early 20th centuries. The slides from which these scans were made were previously owned by sensory scientist Dr. Maynard Amerine. Currently, the slides are the property of the Napa Valley Wine Library Association. \n\n Note on metadata: The provenance of the metadata at the Napa Valley Wine Library is not entirely clear. Each slide has handwritten descriptions, and they were organized thematically with groups indicated by a dividing card. The descriptions on the slides were used as titles. It is unclear if this metadata was provided by Frona Eunice Wait, Maynard Amerine, or unknown others; however, the handwriting is now often illegible. The NVWL has two sources of metadata derived from the slides: 1) a printed index, organized by group, and 2) a photo album of printed copies of the slides, also organized by group. There are several instances where the illegibility of the handwritten description has caused discrepancies between these two sources. In what may be the most dramatic example, the writing on a slide depicting laborers working in a vineyard is interpreted as \"Chinese ? Pickers\" in the index and \"Raisin Pickers\" in the photo album. The writing on the slide is indecipherable, but doesn’t quite look like either of those suggestions. Perhaps \"Chinese\" was changed to \"Raisin\" because it is not clear that the slide includes Chinese laborers, so \"Raisin\" seemed a better guess. Without any way to decide between these options, we chose to title this slide \"Grape Picking\". We have provided new names to several other slides in an effort to reconcile  conflicting information and provide useful and accurate cataloging of the slides. \n\n We have retained the ability to organize the photos by their original grouping by prepending that title to the title of the corresponding slides. So, to take the example of the slide above, \"Grape Picking,\" the full title in Digital Collections is \"Methods Used by Wine Makers Before Prohibition: Grape Picking.\" All slides in each group appear together on the results page. If we believe an error in grouping has been made, we have kept the slide with it’s group, but noted the possible mistake in the description field. You can view a copy of the index by clicking this [link] (/collection/lantern_slides/D-694/nvwl_index) or by searching \"Napa Valley Wine Library Index to Lantern Slides\".",
+  "schema:identifier": "D-694",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3c24qr6h/NVWL_Slide_30.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8gx4jt2"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:name": "Wait (Frona Eunice) Lantern Slides of California Wine Country",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}
